@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![image](https://github.com/pruffit/cloud-storage-frontend/assets/92226657/41a1843d-1644-48d7-a795-4c4f9b26b5fa)
+
+
 ## Getting Started
 
 First, run the development server:
